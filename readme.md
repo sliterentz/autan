@@ -4,8 +4,14 @@
 Starting the app locally
 1. Clone this repository.
 2. Do dependency installation
-   # npm install
+```
+npm install
+```
 3. Run Migrate On Your DB Server
-   # sequelize db:migrate
+```
+sequelize db:migrate
+```
 4. Run the app
-   # yarn nodemon server.js
+```
+yarn nodemon server.js
+```
